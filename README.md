@@ -1,0 +1,5 @@
+thanks
+
+- https://gist.github.com/k16shikano/67625f2a7d96e3bbdfae8d571a936063
+- https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d
+- https://gist.github.com/k16shikano/eb2929f13ed19c97188393d297be8432
